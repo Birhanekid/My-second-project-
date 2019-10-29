@@ -1,0 +1,13 @@
+wsdll file
+http://api.icraftsoft.net:5858/ws/users.wsdl
+project
+http://api.icraftsoft.net:5858/ws/users.wsdl
+
+password for project login:             VjczUUt4b0ZabnIySElET2t1MC85dz09
+
+github tutorial-----------https://www.youtube.com/watch?time_continue=1&v=eL_0Ok_Gkas
+
+jenkin server
+http://lab.icraftsoft.net:8080
+capston
+capston
