@@ -12,3 +12,4 @@ http://lab.icraftsoft.net:8080
 capston
 capston
 capstone project done today by30
+capstone done will be done by tmorrow
