@@ -11,3 +11,4 @@ jenkin server
 http://lab.icraftsoft.net:8080
 capston
 capston
+capstone project done today by30
